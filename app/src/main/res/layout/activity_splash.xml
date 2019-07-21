@@ -4,6 +4,5 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.contenido.SplashActivity">
-
+    tools:context="com.idat.edu.pe.sabores_peruanos.ui.SplashActivity">
 </android.support.constraint.ConstraintLayout>
